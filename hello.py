@@ -1,1 +1,1 @@
-print("hello world")
+print("arshad nigga i know who you love")
